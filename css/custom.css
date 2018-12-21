@@ -1,1 +1,10 @@
 /* your styles go here */
+h1.hero-heading {
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: -2.5rem;
+}
+.sub-title {
+    font-size: 29px;
+    margin-bottom: 32px;
+}
